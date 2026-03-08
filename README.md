@@ -47,13 +47,13 @@ Metabase Dashboard
 
 ## Airflow DAG
 
-![Airflow DAG](Dashboard/Airflow DAG page.png)
+(Dashboard/Airflow DAG page.png)
 
 ---
 
 ## Metabase Dashboard
 
-![Dashboard](Dashboard/Metabase dashboard.png)
+(Dashboard/Metabase dashboard.png)
 
 ---
 
@@ -114,3 +114,4 @@ http://localhost:3000
 ## Author
 
 Aishwarya
+
