@@ -12,3 +12,9 @@ logs/
 .metabase/
 
 *.db
+# Files Airflow generates at runtime (contain local secrets)
+airflow.cfg
+webserver_config.py
+standalone_admin_password.txt
+airflow-webserver.pid
+.DS_Store
